@@ -1,2 +1,2 @@
 # Gestor de Afastamentos
-App Beta de solução gestão de afastamentos ;D
+App Beta(in progress) de solução gestão de afastamentos ;D
